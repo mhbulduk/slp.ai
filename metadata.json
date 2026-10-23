@@ -1,0 +1,6 @@
+{
+  "name": "Kekemelik Analiz ve Raporlama Sistemi",
+  "description": "Dil ve Konuşma Terapistleri (DKT) için yapay zeka destekli kekemelik blok, tekrar ve uzatma analizi, gerçek zamanlı hece sayacı ve klinik oturum raporlama uygulaması.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

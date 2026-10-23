@@ -1,0 +1,26 @@
+{
+  "totalLimit": 1000,
+  "usedCount": 2,
+  "byModule": {
+    "fluency": 0,
+    "articulation": 1,
+    "language": 0,
+    "chat": 1
+  },
+  "recentLogs": [
+    {
+      "id": "9fy4rqc",
+      "timestamp": "2026-09-27T18:26:59.131Z",
+      "email": "Bilinmeyen Kullanıcı",
+      "module": "articulation",
+      "status": "success"
+    },
+    {
+      "id": "bjiqtco",
+      "timestamp": "2026-09-27T18:26:51.249Z",
+      "email": "Bilinmeyen Kullanıcı",
+      "module": "chat",
+      "status": "success"
+    }
+  ]
+}
